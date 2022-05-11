@@ -63,5 +63,3 @@ oled.print(BPM);
 oled.display();
 a++;
 }
-
-Video Tutorial & Explanation:
