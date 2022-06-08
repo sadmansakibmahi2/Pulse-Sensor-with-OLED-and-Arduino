@@ -33,7 +33,6 @@ Please download the repository
     2) Open Arduino IDE.
     3) On Arduino IDE, Go to Sketch Include Library Add . ZIP Library...
     4) Select the downloaded .zip file, and then the library will be installed.
-    5) Copy the above code and open with Arduino IDE.
 
 ## Components
 
