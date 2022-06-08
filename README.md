@@ -20,7 +20,7 @@ Please Install this software
 
 ## library requirements
 
-Please download the repository
+Please download the libraries
 
 [adafruit ssd1306](https://github.com/adafruit/Adafruit_SSD1306)
 
